@@ -1,0 +1,8 @@
+.strike {
+  text-decoration: line-through;
+}
+
+.edit-color {
+  background-color: #4286f4;
+  color: white;
+}
